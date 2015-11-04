@@ -13,9 +13,9 @@ Servidor de SMTP requer autenticação e usar mesmas config. do servidor de entr
 Dados inseridos na aba Avançado de configuração do e-mail
 ``
 
-O servidor de entrada pode ser do tipo ++POP++ ou ++IMAP++:
+O servidor de entrada pode ser do tipo **POP** ou **IMAP**:
 - POP - Host: email.dinhost.com.br / Segurança: SSL / Porta: 995
 - IMAP - Host: email.dinhost.com.br / Segurança: SSL / Porta: 993
 
-Dados do servidor de saída ++(SMTP)++:
+Dados do servidor de saída **(SMTP)**:
 - SMTP - Host: email.dinhost.com.br / Segurança: SSL / Porta: 465
