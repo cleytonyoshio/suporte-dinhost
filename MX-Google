@@ -7,7 +7,7 @@ Ao configurar o uso do servidor de e-mail da google devemos alterar:
 
 ### CNAME ###
 |Nome/Host/Alias|TTL* (Time to Live) ou vida útil|Tipo de registro|Prioridade|Valor/Resposta/Destino|
-|---------------|
+|---------------|---------------|---------------|---------------|---------------|
 |mail|3600|CNAME|1|ghs.googlehosted.com|
 |webmail|3600|CNAME|5|ghs.googlehosted.com|
 
