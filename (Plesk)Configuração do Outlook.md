@@ -14,9 +14,7 @@ Em Informações do Servidor, na caixa Servidor de saída de emails, digite: ema
 
 Após realizar a alteração dos servidores clique sobre o botão mais opções:
 
-![Mais opcoes](http://wiki.locaweb.com.br/images/f/fa/3chgport_outlook.png)
-
-Ao configurar os dados servidores de envio e recebimento nas configurações avançadas é necessário ativar as opções de criptografia SSL e autentiacação.
+![Mais opcoes](http://wiki.locaweb.com.br/images/5/55/SMTP_confg2.jpeg)
 
 `
 Servidor de SMTP requer autenticação e usar mesmas config. do servidor de entrada de e-mails.
@@ -24,6 +22,9 @@ Servidor de SMTP requer autenticação e usar mesmas config. do servidor de entr
 
 ![Ativando Autencicação smtp](http://wiki.locaweb.com.br/images/2/24/06_m.jpg)
 
+Ao configurar os dados servidores de envio e recebimento nas configurações avançadas é necessário ativar as opções de criptografia SSL e autentiacação. Depois clique sobre a ultima aba, avançado para alterar o número das portas, marque a opçao de Autenticaçao SSL.
+
+![Ativando Autencicação smtp](http://www.google.com/help/hc/images/gmail_77659b_ptbr.gif)
 
 ``
 Dados inseridos na aba Avançado de configuração do e-mail
