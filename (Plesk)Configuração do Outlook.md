@@ -1,5 +1,21 @@
 ## Configuração do Outlook, servidores de e-mail ##
 
+Clique na guia Arquivo.
+
+Clique Configurações de Conta e clique em Configurações de Conta.
+
+Selecione a conta de email que você deseja atualizar e clique em Alterar.
+
+Em Informações do Servidor, na caixa Servidor de entrada de emails, digite: email.dinhost.com.br
+
+Em Informações do Servidor, na caixa Servidor de saída de emails, digite: email.dinhost.com.br
+
+![acessar dados da conta](https://osiprodeusodcspstoa01.blob.core.windows.net/pt-br/media/d6797029-9412-46c5-930c-c6bc8dc8f85e.jpg)
+
+Após realizar a alteração dos servidores clique sobre o botão mais opções:
+
+![Mais opcoes](http://wiki.locaweb.com.br/images/f/fa/3chgport_outlook.png)
+
 Ao configurar os dados servidores de envio e recebimento nas configurações avançadas é necessário ativar as opções de criptografia SSL e autentiacação.
 
 `
