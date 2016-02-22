@@ -14,7 +14,7 @@ Ao configurar o uso do servidor de e-mail da google devemos alterar:
 
 ### MX ###
 |Nome/Host/Alias|TTL* (Time to Live) ou vida útil|Tipo de registro|Prioridade|Valor/Resposta/Destino|
-|---------------|
+|---------------|---------------|---------------|---------------|---------------|
 |Em branco ou @|3600|MX|1|ASPMX.L.GOOGLE.COM|
 |Em branco ou @|3600|MX|5|ALT1.ASPMX.L.GOOGLE.COM|
 |Em branco ou @|3600|MX|5|ALT2.ASPMX.L.GOOGLE.COM|
@@ -23,7 +23,7 @@ Ao configurar o uso do servidor de e-mail da google devemos alterar:
 
 ### TXT ###
 |Nome/Host/Alias|TTL* (Time to Live) ou vida útil|Tipo de registro|Prioridade|Valor/Resposta/Destino|
-|---------------|
+|---------------|---------------|---------------|---------------|---------------|
 |||TXT|| v=spf1 include:_spf.google.com ~all|
 
 
