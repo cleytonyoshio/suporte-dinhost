@@ -1,2 +1,0 @@
-# suporte-dinhost
-Procedimentos dinhost
