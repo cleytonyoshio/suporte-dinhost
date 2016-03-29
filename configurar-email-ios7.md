@@ -1,22 +1,22 @@
 ## Configurar conta de e-mail no IOS7 (iPhone) ##
 
-1. **Abrir opção de ajustes e selecionar Mail, Contatos, Calendários.**
+1 - **Abrir opção de ajustes e selecionar Mail, Contatos, Calendários.**
 
 ![Selecione Mail](http://k2host.com.br/images/email/PRIMEIRAIOS.jpg)
 
-2. **Para configurar uma nova conta selecione Adic. Conta do Mail.**
+2 - **Para configurar uma nova conta selecione Adic. Conta do Mail.**
 
 ![Adic. Conta](http://k2host.com.br/images/email/SEGUNDAIOS.jpg)
 
-3. **Escolha a opção Outra.**
+3 - **Escolha a opção Outra.**
 
 ![Outra](http://k2host.com.br/images/email/TERCEIRAIOS.jpg)
 
-4. **Escolher a opção Adic. Conta do Mail.**
+4 - **Escolher a opção Adic. Conta do Mail.**
 
 ![Adic Conta do Mail](http://k2host.com.br/images/email/QUARTAIOS.jpg)
 
-5. **Informar os dados da conta, após preencher os campos clicar em Seguinte ou Salvar:**
+5 - **Informar os dados da conta, após preencher os campos clicar em Seguinte ou Salvar:**
 
 - **Nome:** nome que deseja utilizar na conta.
 - **E-mail:** conta que deseja configurar.
@@ -24,7 +24,7 @@
 - **Descrição:** descrição para a conta (opcional).
 ![Dados de acesso](http://k2host.com.br/images/email/QUINTOIOS.jpg)
 
-6. **Na próxima página os dados da conta devem aparecer preenchidos, selecione a opção IMAP e após preencher os demais campos clique em seguinte.**
+6 - **Na próxima página os dados da conta devem aparecer preenchidos, selecione a opção IMAP e após preencher os demais campos clique em seguinte.**
 
 ####Servidor de correio de Entrada####
 - **Nome do Host:** email.dinhost.com.br
@@ -38,7 +38,7 @@
 
 ![Servidores de envio](http://k2host.com.br/images/email/SEXTO.jpg)
 
-7. **Caso apareça o erro ao UTILIZAR SSL marque Não, caso a mensagem apareça novamente clique novamente em Não que o sistema irá salvar as configurações.**
+7 - **Caso apareça o erro ao UTILIZAR SSL marque Não, caso a mensagem apareça novamente clique novamente em Não que o sistema irá salvar as configurações.**
 
 ![sem ssl](http://s1.trrsf.com.br/faq/image//plataformas/iphone/mail_iphone_09.jpg)
 
