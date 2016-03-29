@@ -4,7 +4,7 @@
 
 ![Selecione Mail](http://k2host.com.br/images/email/PRIMEIRAIOS.jpg)
 
-2 - **Para configurar uma nova conta selecione Adic. Conta do Mail.**
+2 - **Para configurar uma nova conta selecione Adic. Conta do Mail. (Caso a conta já exista é necessário selecionar a mesma e avançar até o procedimento 5)**
 
 ![Adic. Conta](http://k2host.com.br/images/email/SEGUNDAIOS.jpg)
 
@@ -46,7 +46,7 @@
 Os e-mails da dinhost exigem autenticação SSL para enviar e receber mensagens.
 `
 ##Caso tenha mostrado o erro de SSL será necessário configurar os Servidores e Entrada e Saída de e-mails##
-1. **Para isto é necessário acessar o menu Ajustes / Mail, Contatos, Calendários**
+8 - **Para isto é necessário acessar o menu Ajustes / Mail, Contatos, Calendários**
 - Selecionar a nova conta cadastrada.
 - Desça até localizar as informações do Servidor de Correio de Saída e clique em email.dinshost.com.br
 
@@ -56,10 +56,10 @@ Os e-mails da dinhost exigem autenticação SSL para enviar e receber mensagens.
 Neste exemplo o servidor de saída é o smtp.terra.com.br
 ``
 
-2. **Na proxima tela clique em ativado sobre o Servidor Principal**
+9 - **Na proxima tela clique em ativado sobre o Servidor Principal**
 
 ![servidor principal](http://s2.trrsf.com.br/faq/image//plataformas/iphone/mail_iphone_14.jpg)
 
-3.  **Ative a opção de SSL, confirme se a porta registrada é a 587, autenticação deve ser Senha, os nome de usuário e senha devem estar preenchidos e depois clique em OK para salvar as alterações.**
+10 - **Ative a opção de SSL, confirme se a porta registrada é a 587, autenticação deve ser Senha, os nome de usuário e senha devem estar preenchidos e depois clique em OK para salvar as alterações.**
 
 ![configuracao SMTP](http://s1.trrsf.com.br/faq/image//plataformas/iphone/mail_iphone_15.jpg)
